@@ -1,5 +1,6 @@
 ## Setup
 
+* Clone repository
 * ```python -m venv venv```
 * activate your virtual environment
 * ```pip install -r .\requirements.txt```
